@@ -21,5 +21,5 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 <p align="center">
   <a href="mailto:yutong.luo@fau.de"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/yutong-luo-580652255/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/yutong-luo820/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
 </p>
