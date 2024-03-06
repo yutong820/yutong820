@@ -10,9 +10,9 @@
 ---
 
 <p  align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutong820&theme=algolia" alt="github stats"></br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutong820&theme=algolia">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yutong820&theme=algolia"></br></p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutong820&theme=vue" alt="github stats"></br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutong820&theme=vue">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yutong820&theme=vue"></br></p>
 
 
 
