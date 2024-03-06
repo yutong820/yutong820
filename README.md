@@ -9,10 +9,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yutong820&show_icons=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutong820&layout=compact">
-</p>
+<p  align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutong820&theme=algolia" alt="github stats"></br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutong820&theme=algolia">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yutong820&theme=algolia"></br></p>
+
 
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
