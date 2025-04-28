@@ -2,9 +2,8 @@
 
 ## I little bit about me
 
-- 🔭 I’m a master student at FAU-Erlangen-Nürnberg currently, majoring in Medical Engineering.
-- 🌱 I’m currently working as working student at Siemens Healithineers.
-- 👯 Fan of Webdesign, Data Analysis, Machine Learning and Deep Learning.
+- 🔭 I’m a master student at FAU-Erlangen-Nürnberg currently.
+- 👯 Fan of Image processing, Data Analysis, Machine Learning and Deep Learning.
 - 📫 You can drop me an email at yutong.luo@fau.de with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!
 
 ---
