@@ -2,9 +2,9 @@
 
 ## I little bit about me
 
-- 🔭 I’m a master student at FAU-Erlangen-Nürnberg currently.
-- 👯 Fan of Image processing, Data Analysis, Machine Learning and Deep Learning.
-- 📫 You can drop me an email at yutong.luo@fau.de with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!
+- 🔭 I’m a master student studying Mdecial Engineering at FAU-Erlangen-Nürnberg.
+- 👯 Fan of Medical Image, Data Analysis, Machine Learning and Deep Learning.
+- 📫 You can drop me an email at luoyutong1230@gmail.com with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!
 
 ---
 
