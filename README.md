@@ -2,7 +2,7 @@
 
 ## I little bit about me
 
-- 🔭 I’m a master student studying Mdecial Engineering at FAU-Erlangen-Nürnberg.
+- 🔭 I’m a master student studying Medical Engineering at FAU-Erlangen-Nürnberg.
 - 👯 Fan of Medical Image, Data Analysis, Machine Learning and Deep Learning.
 - 📫 You can drop me an email at luoyutong1230@gmail.com with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!
 
